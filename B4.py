@@ -1,4 +1,3 @@
-# B4: Finds the longest consecutive streak of strictly decreasing battery voltages.
 voltages = [12.6, 12.5, 12.5, 12.3, 12.1, 11.9, 12.0, 11.8, 11.6, 11.5, 11.5, 11.2]
 
 best_length = 1
