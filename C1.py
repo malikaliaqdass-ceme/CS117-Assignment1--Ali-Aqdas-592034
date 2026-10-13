@@ -1,0 +1,16 @@
+# C1: Functions to compute current (I = V/R) and power dissipated (P = I^2 * R).
+def ohms_current(v, r):
+    return v / r
+
+
+def power_dissipated(i, r):
+    return i ** 2 * r
+
+
+voltage = 12
+resistance = 6
+current = ohms_current(voltage, resistance)
+power = power_dissipated(current, resistance)
+
+print("Current =", current, "A")
+print("Power =", power, "W")
