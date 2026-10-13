@@ -1,6 +1,4 @@
-# A3: Reads the first band colour of a resistor and prints its digit.
 colour = input("Enter band colour: ").strip().lower()
-
 if colour == "black":
     digit = 0
 elif colour == "brown":
