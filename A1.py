@@ -1,4 +1,3 @@
-# A1: Reads voltage and resistance, computes current (Ohm's law) and checks if the 2 A fuse will blow.
 voltage = float(input("Enter voltage (V): "))
 resistance = float(input("Enter resistance (ohm): "))
 
