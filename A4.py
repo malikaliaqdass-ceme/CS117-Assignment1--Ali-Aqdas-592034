@@ -1,4 +1,3 @@
-# A4: Reads two bits and prints the output of AND, OR and XOR gates.
 a = int(input("Enter A: "))
 b = int(input("Enter B: "))
 
