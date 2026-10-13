@@ -1,4 +1,3 @@
-# C1: Functions to compute current (I = V/R) and power dissipated (P = I^2 * R).
 def ohms_current(v, r):
     return v / r
 
