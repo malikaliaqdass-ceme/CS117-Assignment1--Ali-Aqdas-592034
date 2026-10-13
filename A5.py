@@ -1,4 +1,3 @@
-# A5: Reads three resistor values and prints the smallest and largest (no min()/max()).
 r1 = float(input("Enter R1: "))
 r2 = float(input("Enter R2: "))
 r3 = float(input("Enter R3: "))
