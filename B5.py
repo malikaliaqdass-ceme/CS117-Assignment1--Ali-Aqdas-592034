@@ -1,4 +1,3 @@
-# B5: Bins measured 100 ohm resistors by tolerance until the user enters 0.
 count_1_percent = 0
 count_5_percent = 0
 count_reject = 0
