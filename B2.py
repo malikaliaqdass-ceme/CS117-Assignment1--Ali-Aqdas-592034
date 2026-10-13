@@ -1,4 +1,3 @@
-# B2: Reads n resistors connected in series and prints the total resistance.
 count = int(input("How many resistors? "))
 total_resistance = 0
 
